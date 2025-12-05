@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hejsvejs 👋
+Currently studying Masters in Computer Science and Software Engineering at Linköping University, Sweden. 
 
 <!--
 **jidosc/jidosc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
